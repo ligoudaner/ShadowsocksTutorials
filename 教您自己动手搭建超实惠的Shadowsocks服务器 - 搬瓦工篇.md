@@ -1,6 +1,8 @@
 # 教您自己动手搭建超实惠的Shadowsocks服务器 - 搬瓦工篇
 
-本图文教程详细介绍了如何搭建Shadowsocks服务器,简单到不需要任何电脑基础就可以轻松学会。自己搭建Shadowsocks服务器有如下优势：
+包教会 本图文教程详细介绍了如何搭建Shadowsocks服务器,简单到不需要任何电脑基础就可以轻松学会。
+
+自己搭建Shadowsocks服务器有如下优势：
 
 优势1: 独享一台Shadowsocks服务器，不与其他用户共享资源。
 
@@ -18,8 +20,11 @@
 
 ![图片](/bandwagon/WechatIMG20.jpeg)
 
-2.填写注册信息（注意：国家请务必选择China，不要乱选择，这样可以避免以后被暂停服务。剩下的不要填写真实信息，毕竟翻墙有一些匿名性比较好），完成注册。
+2.填写注册信息（注意：国家请务必选择China，不要乱选择，这样可以避免以后被暂停服务。剩下的不要填写真实信息，毕竟翻墙有一些匿名性比较好），然后输入验证码(如果有需要验证),最后选中最下面的小方框(I have read and agree the Terms of service), 点击Register按钮完成注册。
+
 ![图片](/bandwagon/WechatIMG21.jpeg)
+
+![图片](/bandwagon/WechatIMG21a.jpeg)
 
 3.登录进入搬瓦工
 ![图片](/bandwagon/WechatIMG22.jpeg)
@@ -46,10 +51,10 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 4.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
 
-5.输入优惠码：BWH26FXH3HIQ，点击Validate Code，然后点击Checkout，进入结账页面。
+5.在promotional code处输入优惠码：BWH26FXH3HIQ，点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
 
-6.确认好信息后，选择支付宝付款，勾选同意协议的选项，点击Complete Order，提交订单。
+6.确认好信息后，选择支付宝付款(Alipay)，勾选同意协议的选项，点击Complete Order，提交订单。
 ![图片](/bandwagon/WechatIMG28.jpeg)
 
 7.点击Pay Now，进行支付。
@@ -75,7 +80,8 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 5.待安装完成后，在会显示Shadowsocks账号信息：加密方式、端口和密码，加上前面获取的服务器IP地址，就可以在客户端登录了。
 ![图片](/bandwagon/WechatIMG36.jpeg)
 
-6.参考本网站客户端连接教程，连接成功后，去Youtube测试网速。1080p毫无压力。
+6.最后参考本网站各个客户端连接教程 https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   连接成功后，去Youtube测试网速。1080p毫无压力。
+
 ![图片](/bandwagon/WechatIMG37.jpeg)
 
 
