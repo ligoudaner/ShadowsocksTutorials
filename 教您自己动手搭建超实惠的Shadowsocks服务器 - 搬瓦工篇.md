@@ -20,7 +20,7 @@
 
 ![图片](/bandwagon/WechatIMG20.jpeg)
 
-2.填写注册信息（注意：国家请务必选择China，不要乱选择，这样可以避免以后被暂停服务。剩下的不要填写真实信息，毕竟翻墙有一些匿名性比较好），然后输入验证码(如果有需要验证),最后选中最下面的小方框(I have read and agree the Terms of service), 点击Register按钮完成注册。
+2.填写注册信息（注意：国家请务必选择China，不要乱选择，这样可以避免以后被暂停服务。除了注册邮箱剩下的不需要填写真实信息，毕竟翻墙有一些匿名性比较好），然后输入验证码(如果有碰到的话),最后选中最下面的小方框(I have read and agree the Terms of service), 点击Register按钮完成注册。
 
 ![图片](/bandwagon/WechatIMG21.jpeg)
 
@@ -83,10 +83,10 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 6.最后参考下面的Shadowsocks(简称SS)各个客户端的免费下载配置教程,就可以呼吸到自由的互联网空气了.
 有碰到问题的网友可以在底下留言，我会尽全力帮助大家，让墙内的网友都能呼吸到自由的互联网空气
 
-希望想搭建的朋友可以通过我的教程搭建起来， 恳请大家一起帮忙转发穿墙技术教程让更多人看到外面的世界，星星之火可以燎原。
+### 希望想搭建的朋友可以通过我的教程搭建起来， 恳请大家一起帮忙转发穿墙技术教程让更多人看到外面的世界，星星之火可以燎原。
 
 所有客户端的下载配置教程:
-https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   连接成功后，去Youtube测试网速。1080p毫无压力。
+https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   连接成功后，可以去Youtube测试网速。1080p毫无压力。
 
 
 ![图片](/bandwagon/WechatIMG37.jpeg)
