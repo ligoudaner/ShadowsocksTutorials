@@ -1,6 +1,6 @@
 # 教您自己动手搭建超实惠的Shadowsocks服务器 - 搬瓦工篇
 
-本图文教程详细介绍了如何搭建Shadowsocks服务器。自己搭建Shadowsocks服务器有如下优势：
+本图文教程详细介绍了如何搭建Shadowsocks服务器,简单到不需要任何电脑基础就可以轻松学会。自己搭建Shadowsocks服务器有如下优势：
 
 优势1: 独享一台Shadowsocks服务器，不与其他用户共享资源。
 
@@ -14,10 +14,10 @@
 
 ## 一、注册搬瓦工账号
 
-1.点击[搬瓦工首页地址](https://bwh1.net/aff.php?aff=23103)，点击右上角注册按钮。
+1.点击[搬瓦工首页地址](https://bwh1.net/aff.php?aff=19925)，点击右上角注册按钮。
 ![图片](/bandwagon/WechatIMG20.jpeg)
 
-2.填写注册信息（建议不要填写真实信息，毕竟翻墙有一些匿名性比较好），完成注册。
+2.填写注册信息（注意：国家请务必选择China，不要乱选择，这样可以避免以后被暂停服务。剩下的不要填写真实信息，毕竟翻墙有一些匿名性比较好），完成注册。
 ![图片](/bandwagon/WechatIMG21.jpeg)
 
 3.登录进入搬瓦工
@@ -30,14 +30,14 @@
 
 2.选择合适的套餐
 
-推荐选择第一个或者第二个套餐，这两个套餐对比如下。
+强烈推荐选择第一个或者第二个套餐，这两个套餐对比如下。
 
 |套餐名称|地理位置|是否是CN2线路|硬盘大小|内存大小|每月流量|价格|
 -------| -------|------|------|------|------|------|
 SPECIAL 10G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|10GB|512MB|500GB|29.99美元/年|
 SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
 
-注：CN2代表到中国大陆有专线连接，网速会比较有保障。
+注：CN2代表到中国大陆有专线连接，网速会比较快并且有保障。
 
 3.点击对应套餐后面Order Now按钮
 ![图片](/bandwagon/WechatIMG24.jpeg)
@@ -65,7 +65,7 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 2.进入控制面板首页，记录下服务器IP地址，最后连接会使用该服务器IP。
 ![图片](/bandwagon/WechatIMG33.jpeg)
 
-3.点击Shadowsocks Service选项
+3.点击Shadowsocks Server选项, 注意：如果面板左边kiwivm extras那里没有显示Shadowsocks选项，先用账号登陆搬瓦工网站以后，再在同一个浏览器中打开下面的链接 https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks   然后点击下面的 Install Shad0ws0cks Server 按钮继续.
 ![图片](/bandwagon/WechatIMG34.jpeg)
 
 4.点击Install Shadowsocks Server，等待几分钟，完成安装。
