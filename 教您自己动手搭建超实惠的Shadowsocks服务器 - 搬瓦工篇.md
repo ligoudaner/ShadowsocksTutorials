@@ -24,7 +24,7 @@
 
 ![图片](/bandwagon/WechatIMG21.jpeg)
 
-![图片](/bandwagon/WechatIMG21a.jpeg)
+![图片](/bandwagon/WechatIMG21a.jpg)
 
 3.登录进入搬瓦工
 ![图片](/bandwagon/WechatIMG22.jpeg)
