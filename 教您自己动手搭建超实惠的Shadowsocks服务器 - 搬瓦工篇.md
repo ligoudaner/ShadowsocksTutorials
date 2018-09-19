@@ -16,7 +16,7 @@
 
 ## 一、注册搬瓦工账号
 
-1.点击[搬瓦工首页地址](https://bwh1.net/aff.php?aff=19925)，点击右上角注册按钮。
+1.点击[搬瓦工首页地址](https://bwh1.net/aff.php?aff=36779)，点击右上角注册按钮。
 
 ![图片](/bandwagon/WechatIMG20.jpeg)
 
